@@ -1,0 +1,6 @@
+{
+  "name": "ADB OTG Hub",
+  "description": "Connect, view, and control multiple Android devices over OTG USB and Wireless ADB, featuring multi-device grid control and automated commands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
